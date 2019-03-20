@@ -1,0 +1,5 @@
+gensim
+tqdm
+nltk
+sklearn
+matplotlib
