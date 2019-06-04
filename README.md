@@ -1,6 +1,6 @@
 # Cross-topic distributional semantic representations via unsupervised mappings
 
-This is the code for our NAACL2018 submission. The code implements the models described in the two following papers:
+This is the code for our NAACL2019 submission. The code implements the models described in the two following papers:
 
 * [Topic-based Distributional Semantic Models](https://ieeexplore.ieee.org/document/8334459/)
 >Fenia Christopoulou, Eleftheria Briakou, Elias Iosif, Alexandros Potamianos
