@@ -5,7 +5,7 @@ This is the code for our NAACL2018 submission. The code implements the models de
 * [Topic-based Distributional Semantic Models](https://ieeexplore.ieee.org/document/8334459/)
 >Fenia Christopoulou, Eleftheria Briakou, Elias Iosif, Alexandros Potamianos
 
-* [Cross-topic distributional semantic representations via unsupervised mappings](https://arxiv.org/)
+* [Cross-topic distributional semantic representations via unsupervised mappings](https://arxiv.org/pdf/1904.05674.pdf)
 >Eleftheria Briakou, Nikos Athanasiou, Alexandros Potamianos
 
 ## Setup
